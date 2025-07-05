@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Certificação Belting André Barroso/Belting começa no ouvido.md","permalink":"/certificacao-belting-andre-barroso/belting-comeca-no-ouvido/","created":"2025-07-05T18:29:22.697-03:00","updated":"2025-07-05T18:59:56.227-03:00"}
+{"dg-publish":true,"dg-path":"Certificação Belting André Barroso/Belting começa no ouvido.md","permalink":"/certificacao-belting-andre-barroso/belting-comeca-no-ouvido/","created":"2025-07-05T18:29:22.697-03:00","updated":"2025-07-05T19:05:12.790-03:00"}
 ---
 
-[[2 - Areas/Certificação Belting AB/Certificação Belting André Barroso - MOC\|Certificação Belting André Barroso - MOC]]
+
 - Método André Barroso de Belting
     - Para aprender Belting, é importante que a pessoa consiga ouvir e identificar o Belting
     - "Belting começa no ouvido"
