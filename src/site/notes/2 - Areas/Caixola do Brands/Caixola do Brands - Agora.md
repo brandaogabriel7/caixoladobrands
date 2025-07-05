@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-07-05T19:25:11.205-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-07-05T19:28:35.016-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
