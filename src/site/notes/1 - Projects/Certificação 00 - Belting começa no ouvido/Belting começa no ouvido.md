@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Certificação Belting André Barroso/Belting começa no ouvido.md","permalink":"/certificacao-belting-andre-barroso/belting-comeca-no-ouvido/","created":"2025-07-05T18:29:22.697-03:00","updated":"2025-07-05T19:05:12.790-03:00"}
+{"dg-publish":true,"dg-path":"Certificação Belting André Barroso/Belting começa no ouvido.md","permalink":"/certificacao-belting-andre-barroso/belting-comeca-no-ouvido/","created":"2025-07-05T18:29:22.697-03:00","updated":"2025-07-06T12:11:02.529-03:00"}
 ---
 
 
@@ -38,7 +38,7 @@
     - Colocar nasalidade na voz
     - Colocar estridência na voz
 - Belting faz mal pra voz?
-    - Não! Não há estudos que associem o uso do Belting a danos vocias.
+    - Não! Não há estudos que associem o uso do Belting a danos vocais.
     - O que é danoso para a voz é a falta de técnica adequada
 - Em quais gêneros musicais pode usar belting?
     - O Belting não se refere a um único tipo de som
