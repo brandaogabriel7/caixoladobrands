@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-07-21T23:46:33.758-03:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-07-21T23:52:34.262-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
 
 ## 21 de julho de 2025
 
-- Fui em uma BARatona (Maratona de bares)
-- Festas Julinas
+- Fui em uma BARatona (Maratona de bares) e em algumas festas julinas
 - Fiz muitos rolês com minha família e meus amigos, a maioria tá de férias agora
 - Assisti muita série. Além de terminar [[Modern Family\|Modern Family]] eu assisti [[Superstore\|Superstore]] do início ao fim em menos de duas semanas. Agora vou dar uma pausa nas séries pra focar nas minhas leituras
 - Hoje completou 1 mês que comecei a [[2 - Areas/Caixola do Brands/Caixola do Brands - Página inicial\|Caixola do Brands]]. Tô bem satisfeito com o resultado.
     - Não tem sido algo que me pressiono a fazer sem motivos como nas outras tentativas.
     - Eu gosto de colocar as coisas que tenho aprendido em algum lugar
     - Também achei muito proveitoso essa página de atualizações da minha vida. Acabou como um checkpoint pra mim mesmo, também.
+- Tô meio insatisfeito com minha falta de rotina. Apesar de ter tido muitos momentos proveitosos eu me deixei bagunçar um bocado. Meu uso de celular aumentou de novo nas últimas semanas e fiz pouco exercício físico.
 ## 5 de julho de 2025
 
 - Fui no Festival Sensacional
