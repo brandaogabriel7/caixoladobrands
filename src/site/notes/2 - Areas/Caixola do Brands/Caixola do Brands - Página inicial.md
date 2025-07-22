@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Página inicial.md","dg-permalink":"home","permalink":"/home/","title":"Caixola do Brands","hide":true,"tags":["gardenEntry"],"created":"2025-06-21T15:46:47.115-03:00","updated":"2025-07-05T19:07:19.727-03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Caixola do Brands","hide":true,"tags":["gardenEntry"],"created":"2025-06-21T15:46:47.115-03:00","updated":"2025-07-21T23:43:11.732-03:00"}
 ---
 
 # Caixola do Brands
