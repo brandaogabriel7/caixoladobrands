@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Página inicial.md","dg-permalink":"home","permalink":"/home/","title":"Caixola do Brands","hide":true,"tags":["gardenEntry"],"created":"2025-06-21T15:46:47.115-03:00","updated":"2025-07-21T23:43:11.732-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Página inicial.md","dg-permalink":"home","permalink":"/home/","title":"Caixola do Brands","hide":true,"tags":["gardenEntry"],"created":"2025-06-21T15:46:47.115-03:00","updated":"2025-08-13T16:37:27.366-03:00"}
 ---
 
 # Caixola do Brands
-Olá! :) Eu sou [[2 - Areas/Caixola do Brands/Caixola do Brands - Sobre mim\|Gabriel Brandão (Brands)]] e esse site é meu [[Jardim Digital\|Jardim Digital]], a **Caixola do Brands**. Você pode ver o que tô aprontando [[2 - Areas/Caixola do Brands/Caixola do Brands - Agora\|agora]].
+Olá! :) Eu sou [[2 - Areas/Caixola do Brands/Caixola do Brands - Sobre mim\|Gabriel Brandão (Brands)]] e esse site é meu [[Jardim Digital\|Jardim Digital]], a **Caixola do Brands**. Você pode ver o que tô aprontando [[2 - Areas/Caixola do Brands/Caixola do Brands - Agora\|agora]] ou [[2 - Areas/Caixola do Brands/Caixola do Brands - Contato\|entrar em contato comigo]].
 
 Essa não é a primeira vez que eu começo um site assim. E eu não tenho muitos argumentos pra dizer que dessa vez eu vou manter o hábito e escrever muita coisa aqui. Nem é esse meu objetivo.
 
