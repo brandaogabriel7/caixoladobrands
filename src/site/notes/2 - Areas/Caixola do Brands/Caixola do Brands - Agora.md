@@ -1,9 +1,21 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-07-21T23:52:34.262-03:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-08-13T16:28:40.407-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
 
+## 13 de agosto de 2025
+
+- Voltei a jogar [[Super Meat Boy\|Super Meat Boy]]. Quero muito terminar mas é difícil se eu não conseguir mais constância pra jogar. Depois de muito tempo sem jogar eu demoro pra recuperar a coordenação e lembrar os padrões. E a fase que eu parei no capítulo 8 é bem chatinha de passar.
+- Assisti o filme [[Sinners\|Sinners]]. Melhor filme que vi esse ano, bom demais!
+- Também assisti o novo [[Superman\|Superman]] no cinema e foi maravilhoso, me diverti! Tinha muito tempo que não ia ao cinema.
+- Voltei a ir na academia com frequência, tem me feito muito bem.
+- Assisti o espetáculo de dança [[Brinco de ouro\|Brinco de ouro]] no Sesc Palladium, a galera é fantástica! Muita coreografia foda, muita representação importante do funk brasileiro e de BH. No fim também teve uma roda de conversa com a equipe do espetáculo e a plateia, foi bem emocionante.
+- Reassisti [[Steven Universe\|Steven Universe]], vi a série toda, o filme e comecei a rever [[Steven Universe Future\|Steven Universe Future]]. Amo esse desenho!
+- Voltei a fazer aulas de canto individuais, senti falta de alguém me acompanhando de forma mais próxima nos repertórios. Tô empolgado!
+- Me desorganizei um cadin nas últimas semanas e acabei aumentando o uso do celular mais do que gostaria. Tô bastante atento pra não me deixar retomar o vício.
+- Tenho usado o servidor [Body Doubling](https://bodydoubling.com/) no Discord. É muito útil pra quando eu preciso fazer tarefas mas não to muito a fim. Eu já tinha costume de fazer body doubling com amigos de vez em quando e sempre ajudava muito. Agora eu tenho usado esse servidor. Como ele tem pessoas do mundo todo, sempre que eu entro tem alguém lá. É uma comunidade muito acolhedora, tem muita gente legal.
+- Meu aniversário tá chegando. Eu tô empolgado mas também tô com certo bloqueio pra começar a planejar comemorações. Gostaria de convidar muitas pessoas mas é difícil organizar um rolê que comporta todo mundo.
 ## 21 de julho de 2025
 
 - Fui em uma BARatona (Maratona de bares) e em algumas festas julinas
@@ -17,7 +29,7 @@ Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minh
 ## 5 de julho de 2025
 
 - Fui no Festival Sensacional
-    - Vi o Zeca Pagodinho, a Melly, a Duquesa e Baiana's System
+    - Vi o Zeca Pagodinho, a Melly, a Duquesa e BaianaSystem
     - Foi muito bom!!
 - Tô lendo [Warbreaker](https://www.brandonsanderson.com/blogs/blog/warbreaker-rights-and-downloads) do [[Brandon Sanderson\|Brandon Sanderson]]
 - Retomei meus planos de treinamento de Belting
