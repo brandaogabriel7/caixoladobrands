@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-08-13T16:28:40.407-03:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-08-13T16:28:40.407-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
@@ -39,7 +39,7 @@ Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minh
     - Angústia lançou o [Toda a angústia há de continuar existindo](https://open.spotify.com/album/41MrxicPqPTjQfNAgYUPe4?si=hBqvK9h1RpuSXbUueH9Ndg)
     - Juão Jubá lançou o [Salto súbito](https://open.spotify.com/album/1ckFaQVy5vfvkEuoscAI9Y?si=b-tIr3zhS9-uVreMl72uxQ)
     - Tô muito feliz por eles :)
-- Tô me habituando bem com o [[1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]] pro trabalho
+- Tô me habituando bem com o [[4 - Archive/1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]] pro trabalho
 - [Meu mês de junho no Spotify](https://open.spotify.com/listeningstats/share/72njfwGhV39v44U8FEVOJ9?si=spfNlAdZTiuxb2Ux_maYLw&lang=pt&uri=spotify%3Alisteningstats)
 ## 21 de junho de 2025
 
@@ -48,5 +48,5 @@ Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minh
 - Viajei pra São Paulo pra assistir peças de [[teatro musical\|teatro musical]] com uns amigos.
 - Lendo o livro [Sketch Your Mind](https://sketch-your-mind.com/), do [[Zsolt Viczian\|Zsolt Viczian]]. Tô bastante interessado em melhorar meus processos de anotações para aprendizado e a ideia de usar [[notas visuais\|notas visuais]].
 - Corri uma maratona de 5km com meu pai e meu irmão.
-- Migrando do VSCode para o [[1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]]. Tô bem obcecado em usar menos o mouse e mais atalhos de teclado no computador. O Neovim também me interessou por ser muito rápido e customizável, quero melhorar minha produtividade programando.
+- Migrando do VSCode para o [[4 - Archive/1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]]. Tô bem obcecado em usar menos o mouse e mais atalhos de teclado no computador. O Neovim também me interessou por ser muito rápido e customizável, quero melhorar minha produtividade programando.
 - Fui no show da última turnê do [[Gilberto Gil\|Gilberto Gil]] e foi maravilhoso! Que artista incrível!
