@@ -1,9 +1,26 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-08-13T16:28:40.407-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-11-03T19:24:28.790-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
 
+## 3 de novembro de 2025
+
+- Dei uma sumida nesses últimos 2 meses, as atualizações vão ter umas coisas antigas.
+- Eu fui em muitos shows fantásticos:
+    - [[Kendrick Lamar\|Kendrick Lamar]]
+    - [[Marisa Monte\|Marisa Monte]]
+    - [[Luedji Luna\|Luedji Luna]]
+    - [[Imagine Dragons\|Imagine Dragons]]
+    - [[Os Paralamas do Sucesso\|Os Paralamas do Sucesso]]
+- Fiz uma tatuagem da bandeira dos Chapéu de Palha de One Piece, ficou o máximo!
+- Joguei um pouco de PokéMMO mas minha maior atenção nos jogos ficou com [[Super Meat Boy\|Super Meat Boy]]. Finalmente zerei a história principal do jogo (pena que isso é só 31% do jogo, ainda falta muito hehe)
+- Participei da corrida do Galo
+- Fiz umas aulas de Spinning, não é muito minha praia pra frequentar sempre mas curto ir de vez em quando.
+- Comemorei meu aniversário em um sítio com muita gente querida :)
+- Aproveitei que High School Musical 3 tava no cinema e finalmente assisti
+- Comecei a jogar vôlei com uma galera
+- Assisti muita série: Gen V, Fleabag, The Rookie...
 ## 13 de agosto de 2025
 
 - Voltei a jogar [[Super Meat Boy\|Super Meat Boy]]. Quero muito terminar mas é difícil se eu não conseguir mais constância pra jogar. Depois de muito tempo sem jogar eu demoro pra recuperar a coordenação e lembrar os padrões. E a fase que eu parei no capítulo 8 é bem chatinha de passar.
