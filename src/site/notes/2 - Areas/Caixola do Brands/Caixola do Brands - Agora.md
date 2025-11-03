@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-11-03T19:24:28.790-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-11-03T19:26:44.919-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
@@ -14,6 +14,7 @@ Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minh
     - [[Imagine Dragons\|Imagine Dragons]]
     - [[Os Paralamas do Sucesso\|Os Paralamas do Sucesso]]
 - Fiz uma tatuagem da bandeira dos Chapéu de Palha de One Piece, ficou o máximo!
+- Terminei de ler [[Warbreaker\|Warbreaker]]. Foi uma leitura longa mas eu curti muito, adoro os trabalhos do [[Brandon Sanderson\|Brandon Sanderson]]!
 - Joguei um pouco de PokéMMO mas minha maior atenção nos jogos ficou com [[Super Meat Boy\|Super Meat Boy]]. Finalmente zerei a história principal do jogo (pena que isso é só 31% do jogo, ainda falta muito hehe)
 - Participei da corrida do Galo
 - Fiz umas aulas de Spinning, não é muito minha praia pra frequentar sempre mas curto ir de vez em quando.
