@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"dg-path":"Engenharia de Dados/Data Engineering.md","permalink":"/engenharia-de-dados/data-engineering/","created":"2025-11-12T19:29:03.768-03:00","updated":"2026-01-23T14:24:42.156-03:00"}
+---
+
+- A data engineer is responsible for automating the process of extracting data from various sources, transforming it, and making it available for analytics tools. That makes it easier for companies to make data-driven decisions.
+- A basic ETL (extract, transform, load) pipeline can gather data from many sources, treat it so it's useful, and make it available in a centralized place for BI tools to consume.
+- Standard transactional databases are not optimized to do analytics jobs and process complex queries. When a company has larger volumes of data and complex analytics, we need a data warehouse.
+- A data warehouse centralizes data from multiple sources. One issue, though, is that the data comes in multiple types and formats from each source, so the data engineer is responsible for keeping everything organized. That process of getting the an ideal structure for the data warehouse might take multiple iterations.
+- A data warehouse is specifically optimized to run complex analytics queries as opposed to simple transaction queries of a regular database.
+- The process is:
+    - data is automatically pulled from multiple sources by the ETL scripts
+    - those scripts transform and validate the data
+    - finally the ETL scripts populate tables inside the warehouse
+    - now, the teams with access to the BI tools can interact with the data
+- A data scientist's job is to find hidden insights in data and make predictive models to forecast the future. A data warehouse might not be enough for these tasks. Not all the company data is available in the data warehouse for consumption, only what the teams thought made sense in advance. Sometimes they might need some extra data to deliver one-time complex requests. That's when a data engineer might need to create custom pipelines for those requests, besides maintaining and improving the existing pipelines.
+- Data scientists might also need to work with Data Lakes. Data Lakes invert the load and transform steps in the pipeline. Instead of having data structured based on specific metrics, Data Lakes store raw data that is not pre-processed. Then the data scientist can decide how to consume that data. The data engineer, in this case, is responsible for enabling that constant supply of data into the data lake.
+- What is big data?
+    - 4 vs: volume, variety, veracity, velocity
+- Normal pipelines don't work for big data. When you have many data sources generating data constantly and multiple consumers for that data, it becomes slow to work synchronously (with batches). That's where data streaming and pub/sub.
+- Pub/sub allows decoupling data providers and consumers. The data is divided into different topics and the consumers can subscribe to the topics they need. When a new record is generated it is published to the appropriate topic to be consumed by that topic's subscribers.
+- Now the systems don't need to wait for each other and can work on their own pace. That allows for a much faster process of making the data available.
+- Distributed storage/computing
+    - You can't store huge amounts of data in a single place. When working with those larger amounts, we can distribute the data between multiple servers. Those combinations of servers that store related data are called clusters.
+    - Distributed storage tools (like hadoop) are very scalable, you can keep adding more computers to the cluster as your storage needs grow. You also get redundancy for securing information even if there are problems with some computers in the clusters.
+    - ETL and ELT pipelines need tools to interact with distributed storage like hadoop. One example is Apache Spark, data processing framework.
+- Besides data scientists and analytics users, the data can also be consumed by other systems like machine learning algorithms.
+- Data engineer requirements:
+    - Python, SQL, Java, R, noSQL
+    - Databases, data lakes, data warehouses, other ways of storing data
+    - command line and scripting
+    - ETL and ELT pipelines (apache airflow)
+    - cloud computing
+- Data analyst:
+    - extract meaningful insights from data to help business decision-making
+    - sql, python (maybe)
+    - excel
+    - BI tools (powerBI, tableau)
+- Data scientist:
+    - create predictive and machine learning models to help with decision-making
+    - python, sql
+    - machine learning
+    - maths and stats
+    - cloud computing
+    - command line and scripting

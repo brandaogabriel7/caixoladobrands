@@ -1,0 +1,151 @@
+---
+{"dg-publish":true,"dg-path":"DDD (Domain Driven Design).md","permalink":"/ddd-domain-driven-design/","tags":["fleeting"],"created":"2024-02-13T16:11:41.696-03:00","updated":"2026-01-23T14:24:21.821-03:00"}
+---
+
+- Softwares complexos envolvem muitas áreas, muitas regras de negócio, muitas linguagens
+- Grande parte dos problemas em softwares são relacionados com complexidades de negócio, não complexidades técnicas
+- O DDD busca modelar de forma explícita uma linguagem universal para modelar os contextos do negócio e facilitar a comunicação e desenvolvimento de software
+- Design estratégico
+    - Entender o domínio e dividí-lo em diferentes partes (subdomínios)
+- Design tático
+    - Mais relacionado com a implementação dos modelos de domínio dentro de cada bounded context
+- Domínios e subdomínios
+    - O domínio é grande e pode ser dividido em várias partes (subdomínios)
+        - Core Domain: diferencial competitivo da empresa, sem o Core Domain não faria sentido a existência do negócio
+        - Support Subdomain: não é o diferencial da empresa mas apoia a operação do domínio
+        - Generic Subdomains: são mais genéricos e auxiliares, geralmente podem ser substituídos por softwares de prateleira
+- Espaço do problema vs espaço da solução
+    - Espaço do problema
+        - Entendimento do domínio e suas complexidades
+        - Divisão em subdomínios
+    - Espaço da solução
+        - Analisar e modelar o domínio
+        - Transformar subdomínios em bounded contexts
+- Bounded contexts
+    - Definem limites explícitos dentro de um domínio
+    - Dentro de cada uma dessas porções, há a definição de termos e frases em forma de uma linguagem ubíqua, e o modelo reflete com exatidão essa linguagem
+- Contexto é rei
+    - Palavras iguais com significados diferentes indicam diferença de contextos
+    - Da mesma forma, palavras diferentes com o mesmo significado representam, também, diferença de contextos
+        - Nesses casos, geralmente há comunicação ou interseção dos contextos em algum momento
+- Elementos transversais
+    - Apesar de existir elementos que participam de diferentes contextos delimitados, é importante perceber a diferença de perspectivas
+    - Os elementos transversais interagem de formas diferentes em cada contexto delimitado e é importante que o software reflita essa separação
+    - Uma entidade "Cliente" pode carregar diferentes informações se está no contexto de "Suporte" ou "Vendas", por exemplo
+- Visão estratégica
+    - É importante ter uma visão macro (mesmo que superficial) de como o contextos se comunicam, quais são os relacionamentos entre eles
+    - Isso vai ajudar com a organização dos times durante o processo de modelagem, organização e desenvolvimento do software
+    - É aí que entra o context mapping
+- Context mapping na prática
+    - Diferentes possibilidades de relacionamentos entre os contextos
+        - Cliente/Fornecedor
+            - O cliente se adapta à forma como o fornecedor funciona
+            - Pode ser uma relação de importância entre os contextos dentro da própria empresa
+            - Também pode ser uma relação de conformidade ao consumir um serviço de terceiros
+        - Parceria
+            - Os dois contextos consomem um do outro e funcionam em conjunto
+            - Em alguns casos os dois contextos podem ter um núcleo compartilhado (shared kernel) mas nem sempre é uma boa ideia
+    - Quanto mais conformista a relação, mais acoplamento
+        - Nesses casos podemos ter uma camada anticorrupção (ACL) que funciona como um adaptador pra facilitar a mudança de fornecedor
+    - Ter essa visão estratégica permite organizar os times e entender como eles vão se comunicar
+- Padrões e Starter Kits
+    - Padrões
+        - Partnership
+        - Shared kernel
+        - Customer Supplier Development
+        - Conformist
+        - Anticorruption-layer
+        - Open host service
+        - Published language
+        - Separate ways
+        - Big Ball of Mud
+    - [[ddd-crew -- DDD-CrewContext-Mapping - Highlights\|DDD-Crew/Context-Mapping]]
+        - Starter kit no Miro e imagens para representar os padrões
+## DDD - Modelagem Tática e Patterns
+- Não adianta pular direto pra parte tática, DDD é sobre primeiro entender o domínio e o problema e depois usar as ferramentas da parte tática para desenvolver a solução
+- Quando se fala em DDD, precisamos entender mais a fundo como modelar os elementos táticos dentro de cada bounded context
+- Precisamos entender quais são esses elementos, como funcionam e como se relacionam
+- Entidades
+    - A palavra-chave pra se falar de entidades é **identidade**.
+    - Uma entidade pode ser identificada e distinguida de todas as outras.
+    - Mesmo que os atributos de uma entidade mudem ao longo do tempo, ela não perde sua identidade.
+    - Eu sou uma pessoa chamada Gabriel, se eu faço a aniversário (minha idade muda) ou se eu pinto meu cabelo, eu continuo sendo o Gabriel. As mudanças de atributo não mudam a minha identidade
+    - Geralmente criamos "entidades anêmicas", entidades que apenas carregam dados e não implementam regras de negócio
+    - Nós geralmente fazemos isso por conta dos ORMs
+    - Entidades não são o mesmo que DTOs (Data Transfer Objects). Os DTOs tem o único objetivo de facilitar a transferência dados entre as camadas da aplicação. Já as entidades representam objetos que possuem comportamentos e estão diretamente ligadas com as regras de negócio
+- Regras de negócios
+    - A semântica que representa as intenções de negócio é importante na modelagem de um domínio rico
+    - Suponha uma entidade Cliente que tem uma propriedade `ativo`. Em um DTO, eu poderia ter apenas um método setter dessa propriedade para ser usada pelo ORM, por exemplo.
+    - Mas uma entidade busca representar as regras de negócio do domínio. Nesse caso, faria mais sentido que houvesse os métodos `ativar` e `desativar`. Na prática os dois casos podem atender de forma semelhante, mas o segundo representa a intenção de negócio na semântica.
+        - Além de atualizar o valor de `ativo`, o segundo caso poderia fazer validações e capturar erros como "Você tentou ativar um cliente que já está ativo"
+- Consistência constante em primeiro lugar
+    - A entidade sempre tem que representar o estado correto e atual daquele objeto
+    - Se eu tento criar uma entidade de Cliente com informações incompletas (sem nome, por exemplo), isso tá errado e deve ser validado. Numa modelagem de domínio rico a entidade não pode ser criada com estado inválido, os dados sempre devem estar consistentes.
+    - Atributos opcionais podem ser preenchidos depois mas se a entidade possui atributos obrigatórios, ela não pode ser inicializada sem estes.
+    - No DDD, a própria entidade deve validar que está sendo criada com um estado válido e consistente.
+    - Uma entidade, por padrão, sempre tem que se autovalidar
+        - Sempre suspeite de setters em entidades
+- Entidade vs ORM
+    - As entidades usadas pelo ORM são focadas em persistência, não em negócio.
+    - É melhor ter os dois tipos de entidades separados. Se possível, chamar a entidade do ORM de modelo ou algum outro nome que não cause ambiguidade.
+- Objetos de valor
+    - Objetos de valor (Value Objects) não têm identidade como as entidades, somente seus valores são importantes
+    - Os objetos de valor representam um único valor por vez, são imutáveis. Nós não alteramos um atributos que é um objeto de valor, nós o substituímos.
+    - Os objetos de valor, além de serem responsáveis pela própria validação, podem ter métodos para retornar diferentes formas de visualizá-los. Um método `toString`, por exemplo, que aceita um parâmetro para definir o formato.
+- Agregados
+    - As entidades e objetos de valor têm relações entre si. Em alguns momentos essa relação é mais forte, de forma que esses objetos podem ser considerado de um mesmo bloco. Mas em outros momentos, a relação é mais fraca, eles não são tão acoplados e pertencem a blocos diferentes.
+    - Esses "blocos" são os agregados.
+        - Objetos que têm uma dependência , muito forte como um *Cliente* e seu *Endereço*, podem ser considerados de um mesmo agregado. Não faz sentido para o meu software a existência de um *Endereço* sem um *Cliente*.
+        - Outro exemplo é a relação entre um *Pedido* e os *Itens do pedido*. A existência dos *Itens do pedido* não fazem sentido sem a existência do próprio Pedido.
+        - Então, nesses exemplos, temos dois agregados. Esses agregados são nomeados pela entidade "raiz", aquela por onde o bloco começa, que é o centro daquele agregado:
+            - `ClienteAgregado`
+            - `PedidoAgregado`
+        - Por outro lado, a relação entre o *Cliente* e um *Pedido* não é tão forte assim. Não podemos ter um pedido sem o *Cliente* que fez o pedido. Mas o *Cliente* não existe só nesse contexto, ele serve outros contextos e tem dados não relacionados com o "bloco" de *Pedido*. Então, nesse caso, o relacionamento entre eles é mais fraco, eles não pertencem ao mesmo agregado, à mesma unidade lógica.
+- Agregados na prática
+    - Se os objetos estão no mesmo agregado, eles são referenciados pela classe, são contidos.
+    - Se os objetos são de agregados diferentes, usa-se apenas o ID.
+### Domain services
+- São operações sem estado que não são responsabilidade natural de uma entidade ou objeto de valor.
+- Geralmente são operações que envolvem objetos de diferentes agregados ou operações em lote.
+- É importante que os domain services sejam nomeados de acordo com a linguagem ubíqua.
+- Não é o mesmo que os services que usamos em outros contextos, como services para interagir com outros sistemas, etc.
+- A existência de muitos Domain Services pode ser um indicativo de que as entidades e objetos de valor estão anêmicos.
+>[!tip]- Sem puritanismo
+>Se precisássemos fazer uma operação em larga escala, como alterar o preço de milhares de produtos, não seria adequado trazer todos os registros pra memória só pra fazer essa operação com um domain service. Em um caso como esse, faz muito mais sentido trabalhar com o banco de dados pra fazer a operação de forma ótima. O extremismo pode prejudicar sua aplicação, precisamos usar do bom senso.
+### Repositories
+- Os repositórios são responsáveis pelo armazenamento dos dados relacionados a um agregado da aplicação.
+- Eles geralmente têm uma relação de 1 pra 1 com os agregados, não com as entidades. Diferente de DAOs (Data Access Objects), que tem relação de 1 pra 1 com os modelos/entidades.
+- Quando os dados são recuperados usando um repositório, eles devem estar do mesmo jeito que foram deixados.
+### Domain Events
+- São usados para capturar ocorrências de algo que aconteceu no domínio
+    - Podem ser usados para Audit Log
+- Sempre representam algo que já aconteceu, estão sempre no passado
+- Domain Events são opcionais, geralmente são utilizados para notificar outros Bounded Contexts de uma mudança de estado. Dessa forma os outros Bounded Contexts não precisam saber detalhes de implementação para saber que algo ocorreu em outro contexto relacionado.
+- Componentes
+    - Event
+        - Data e hora
+        - O que aconteceu
+    - Handler
+        - Executa o processamento quando o evento é chamado.
+        - Um evento pode ter vários handlers. Ou seja, várias ações podem ocorrer em resposta a um evento.
+    - Event Dispatcher
+        - Armazena as associações entre os eventos e os handlers e executa os handlers dos eventos quando são disparados.
+- Dinâmica
+    - Criar um "Event Dispatcher"
+    - Criar um "Evento"
+    - Criar um "Handler" para o "Evento"
+    - Registrar o Evento associado aos seus handlers no "Event Dispatcher"
+    - O Dispatcher é notificado quando um evento ocorre e chama os seus respectivos handlers.
+### Módulos
+- Módulos são contâineres para delimitar seu código e organizá-lo por contextos
+- Pensando em DDD, nossos módulos devem refletir a linguagem úbiqua. Ou seja, devemos organizá-los de acordo com os Bounded Contexts e Agregados.
+    - Diminuir o acoplamento o máximos possível.
+    - Um ou mais agregados só devem estar juntos se fizer sentido.
+- Devemos priorizar a organização pelo domínio/subdomínio à organização por tipos.
+- A mesma divisão deve ser respeitada em todas as camadas (domínio, infraestrutura, aplicação...)
+### Factories
+- As factories são objetos responsáveis pela criação de objetos complexos da nossa aplicação. Elas abstraem as complexidades de forma que os tipos concretos não precisam ser conhecidos por quem está criando o objeto.
+## Referências
+- [[Willians -- Livro_FullCycle-0.10 - Highlights\|Livro_FullCycle-0.10]]
+- [[Cycle -- O Que É DDD - Domain Driven Design - Full Cycle - Highlights\|O Que É DDD - Domain Driven Design - Full Cycle]]
+- [[Moura -- Domain-Driven Design — Contextos Delimitados - Highlights\|Domain-Driven Design — Contextos Delimitados]]
