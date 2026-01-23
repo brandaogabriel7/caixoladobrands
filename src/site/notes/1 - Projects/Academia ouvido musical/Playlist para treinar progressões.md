@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/academia-ouvido-musical/playlist-para-treinar-progressoes/","tags":["resource"],"created":"2026-01-20T16:45:00.000-03:00","updated":"2026-01-23T14:24:20.816-03:00"}
+{"dg-publish":true,"dg-path":"Academia ouvido musical/Playlist para treinar progressões.md","permalink":"/academia-ouvido-musical/playlist-para-treinar-progressoes/","tags":["resource"],"created":"2026-01-20T16:45:00.000-03:00","updated":"2026-01-23T14:24:20.816-03:00"}
 ---
 
 
