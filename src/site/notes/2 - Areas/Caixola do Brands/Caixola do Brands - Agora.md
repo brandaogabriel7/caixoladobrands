@@ -1,8 +1,56 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2025-11-03T19:26:44.919-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2026-02-26T20:29:28.711-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
+# 2026
+
+## 26 de fevereiro de 2026
+
+Fiquei muito tempo sem atualizar essa página então tem bastante coisa pra falar. Foram meses bem bons em quesitos culturais, descanso e tempo de qualidade com meus amigos. Tenho me sentido bastante focado, toquei muitos projetos pessoais e estudos.
+### Shows, peças e rolês
+Fui em muitos rolês culturais e fui muito feliz em todos eles!!
+- Show Linkin Park
+- Show Dominguinho
+- Show Bad Bunny
+- Peça "Os Suspeitos"
+- Blocos de Carnaval em Salvador (pré), BH e SP (pós)
+- Culto da Rua e Samba do Arco embaixo do Viaduto Santa Tereza
+### Jogos
+Joguei bastante nesses últimos meses.
+- Mario Kart
+- Mario Tennis
+- Keep Talking and Nobody Explodes
+- Castle Crashers
+- Zelda
+## Estudos
+Meus estudos estão bem divididos entre musculação e música.
+- Música e ritmos brasileiros
+- Comecei a aprender asalato
+- Muito treino de ouvido musical
+- Data Engineering e AI Engineering
+    - Projetos pessoais no meu Github de RAG, Data pipelines, LLMs e meu Github README
+- Tô usando bastante Claude Code
+    - Projetos pessoais e trabalho
+    - Organização digital
+    - Aprendizado
+### Saúde
+Tive algumas complicações no início do ano mas no geral tô saudável.
+- Tava firme na musculação no fim do ano
+- Corri 5km na Corrida da Arena MRV
+- Fraturei o cóccix no início do ano e tive que parar com os exercícios físicos por um tempo
+- Agora já voltei pro vôlei e também fiz uma aula de spinning sem sentir dores. Vou retomar a musculação
+- Tô com uma tosse muito persistente desde dezembro. Tá parecido com a vez que tive granuloma vocal.
+    - Parei com as aulas de canto e marquei otorrino pra investigar melhor
+### Assisti
+- Filmes de Wicked (revi o 1 no cinema logo antes de assistir o 2)
+- Shingeki no Kyojin (faltava os episódios finais, e odiei)
+## Viagens
+Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir, tava com saudade de natureza.
+- Salvador
+- SP (pra shows)
+- Serra do Cipó
+# 2025
 
 ## 3 de novembro de 2025
 
@@ -55,7 +103,7 @@ Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minh
 - Tô assistindo [[Modern Family\|Modern Family]]
 - Grandes amigos meus lançaram EPs nas últimas semanas
     - Angústia lançou o [Toda a angústia há de continuar existindo](https://open.spotify.com/album/41MrxicPqPTjQfNAgYUPe4?si=hBqvK9h1RpuSXbUueH9Ndg)
-    - Juão Jubá lançou o [Salto súbito](https://open.spotify.com/album/1ckFaQVy5vfvkEuoscAI9Y?si=b-tIr3zhS9-uVreMl72uxQ)
+    - [[2 - Areas/Relacionamentos/João (Juão Jubá)/João (Juão Jubá)\|Juão Jubá]] lançou o [Salto súbito](https://open.spotify.com/album/1ckFaQVy5vfvkEuoscAI9Y?si=b-tIr3zhS9-uVreMl72uxQ)
     - Tô muito feliz por eles :)
 - Tô me habituando bem com o [[4 - Archive/1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]] pro trabalho
 - [Meu mês de junho no Spotify](https://open.spotify.com/listeningstats/share/72njfwGhV39v44U8FEVOJ9?si=spfNlAdZTiuxb2Ux_maYLw&lang=pt&uri=spotify%3Alisteningstats)
