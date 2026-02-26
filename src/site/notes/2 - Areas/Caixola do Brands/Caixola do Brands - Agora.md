@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2026-02-26T20:29:28.711-03:00"}
+{"dg-publish":true,"dg-path":"Caixola do Brands - Agora.md","dg-permalink":"now","permalink":"/now/","title":"Agora","pinned":true,"created":"2025-06-21T19:34:28.521-03:00","updated":"2026-02-26T20:37:47.206-03:00"}
 ---
 
 Essa página é parte do movimento [Now Page](https://nownownow.com/about). Minha intenção é atualizar todos os meses com coisas que acontecem na minha vida e como vão os meus projetos.
-# 2026
+## 2026
 
-## 26 de fevereiro de 2026
+### 26 de fevereiro de 2026
 
 Fiquei muito tempo sem atualizar essa página então tem bastante coisa pra falar. Foram meses bem bons em quesitos culturais, descanso e tempo de qualidade com meus amigos. Tenho me sentido bastante focado, toquei muitos projetos pessoais e estudos.
-### Shows, peças e rolês
+#### Shows, peças e rolês
 Fui em muitos rolês culturais e fui muito feliz em todos eles!!
 - Show Linkin Park
 - Show Dominguinho
@@ -16,14 +16,14 @@ Fui em muitos rolês culturais e fui muito feliz em todos eles!!
 - Peça "Os Suspeitos"
 - Blocos de Carnaval em Salvador (pré), BH e SP (pós)
 - Culto da Rua e Samba do Arco embaixo do Viaduto Santa Tereza
-### Jogos
+#### Jogos
 Joguei bastante nesses últimos meses.
 - Mario Kart
 - Mario Tennis
 - Keep Talking and Nobody Explodes
 - Castle Crashers
 - Zelda
-## Estudos
+#### Estudos
 Meus estudos estão bem divididos entre musculação e música.
 - Música e ritmos brasileiros
 - Comecei a aprender asalato
@@ -34,7 +34,7 @@ Meus estudos estão bem divididos entre musculação e música.
     - Projetos pessoais e trabalho
     - Organização digital
     - Aprendizado
-### Saúde
+#### Saúde
 Tive algumas complicações no início do ano mas no geral tô saudável.
 - Tava firme na musculação no fim do ano
 - Corri 5km na Corrida da Arena MRV
@@ -42,17 +42,17 @@ Tive algumas complicações no início do ano mas no geral tô saudável.
 - Agora já voltei pro vôlei e também fiz uma aula de spinning sem sentir dores. Vou retomar a musculação
 - Tô com uma tosse muito persistente desde dezembro. Tá parecido com a vez que tive granuloma vocal.
     - Parei com as aulas de canto e marquei otorrino pra investigar melhor
-### Assisti
+#### Assisti
 - Filmes de Wicked (revi o 1 no cinema logo antes de assistir o 2)
 - Shingeki no Kyojin (faltava os episódios finais, e odiei)
-## Viagens
+#### Viagens
 Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir, tava com saudade de natureza.
 - Salvador
 - SP (pra shows)
 - Serra do Cipó
-# 2025
+## 2025
 
-## 3 de novembro de 2025
+### 3 de novembro de 2025
 
 - Dei uma sumida nesses últimos 2 meses, as atualizações vão ter umas coisas antigas.
 - Eu fui em muitos shows fantásticos:
@@ -70,7 +70,7 @@ Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir
 - Aproveitei que High School Musical 3 tava no cinema e finalmente assisti
 - Comecei a jogar vôlei com uma galera
 - Assisti muita série: Gen V, Fleabag, The Rookie...
-## 13 de agosto de 2025
+### 13 de agosto de 2025
 
 - Voltei a jogar [[Super Meat Boy\|Super Meat Boy]]. Quero muito terminar mas é difícil se eu não conseguir mais constância pra jogar. Depois de muito tempo sem jogar eu demoro pra recuperar a coordenação e lembrar os padrões. E a fase que eu parei no capítulo 8 é bem chatinha de passar.
 - Assisti o filme [[Sinners\|Sinners]]. Melhor filme que vi esse ano, bom demais!
@@ -82,7 +82,7 @@ Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir
 - Me desorganizei um cadin nas últimas semanas e acabei aumentando o uso do celular mais do que gostaria. Tô bastante atento pra não me deixar retomar o vício.
 - Tenho usado o servidor [Body Doubling](https://bodydoubling.com/) no Discord. É muito útil pra quando eu preciso fazer tarefas mas não to muito a fim. Eu já tinha costume de fazer body doubling com amigos de vez em quando e sempre ajudava muito. Agora eu tenho usado esse servidor. Como ele tem pessoas do mundo todo, sempre que eu entro tem alguém lá. É uma comunidade muito acolhedora, tem muita gente legal.
 - Meu aniversário tá chegando. Eu tô empolgado mas também tô com certo bloqueio pra começar a planejar comemorações. Gostaria de convidar muitas pessoas mas é difícil organizar um rolê que comporta todo mundo.
-## 21 de julho de 2025
+### 21 de julho de 2025
 
 - Fui em uma BARatona (Maratona de bares) e em algumas festas julinas
 - Fiz muitos rolês com minha família e meus amigos, a maioria tá de férias agora
@@ -92,7 +92,7 @@ Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir
     - Eu gosto de colocar as coisas que tenho aprendido em algum lugar
     - Também achei muito proveitoso essa página de atualizações da minha vida. Acabou como um checkpoint pra mim mesmo, também.
 - Tô meio insatisfeito com minha falta de rotina. Apesar de ter tido muitos momentos proveitosos eu me deixei bagunçar um bocado. Meu uso de celular aumentou de novo nas últimas semanas e fiz pouco exercício físico.
-## 5 de julho de 2025
+### 5 de julho de 2025
 
 - Fui no Festival Sensacional
     - Vi o Zeca Pagodinho, a Melly, a Duquesa e BaianaSystem
@@ -107,7 +107,7 @@ Viajei algumas vezes e aproveitei praia e cachoeira depois de muito tempo sem ir
     - Tô muito feliz por eles :)
 - Tô me habituando bem com o [[4 - Archive/1 - Projects/Avaliar uso do Neovim pra programar/Neovim\|Neovim]] pro trabalho
 - [Meu mês de junho no Spotify](https://open.spotify.com/listeningstats/share/72njfwGhV39v44U8FEVOJ9?si=spfNlAdZTiuxb2Ux_maYLw&lang=pt&uri=spotify%3Alisteningstats)
-## 21 de junho de 2025
+### 21 de junho de 2025
 
 - Tentando um detox digital, reduzindo o uso do Instagram e do WhatsApp.
 - Iniciando [[2 - Areas/Caixola do Brands/Caixola do Brands - Página inicial\|esse novo Jardim Digital]].
