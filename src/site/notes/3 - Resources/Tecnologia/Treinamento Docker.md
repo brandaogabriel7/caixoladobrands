@@ -99,7 +99,7 @@ Prática Docker
 
 
 ## Embedded Files
-ddadbd1554e59e4fac6776c4a77c3eaca6055abe: [[Pasted Image 20250410173702_737.png]]
+ddadbd1554e59e4fac6776c4a77c3eaca6055abe: [Pasted Image 20250410173702_737.png](/img/user/_attachments/Pasted%20Image%2020250410173702_737.png)
 
-da71fd642b87b6643cb47832f47d74369288113c: [[Pasted Image 20250410181310_665.png]]
+da71fd642b87b6643cb47832f47d74369288113c: [Pasted Image 20250410181310_665.png](/img/user/_attachments/Pasted%20Image%2020250410181310_665.png)
 
