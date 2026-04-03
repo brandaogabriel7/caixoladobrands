@@ -16,7 +16,6 @@ Um pequeno aviso é que eu sou muito curioso e distraído. Alguns tópicos que v
 
 Aqui estão algumas das minhas notas mais recentes por onde você pode começar:
 - [[3 - Resources/Tecnologia/O que acontece quando digitamos o endereço de um site no navegador\|O que acontece quando digitamos o endereço de um site no navegador]]
-- [[3 - Resources/Tecnologia/Treinamento Docker\|Treinamento Docker]]
 - [[3 - Resources/Tecnologia/Template engines em Python\|Template engines em Python]]
 - [[3 - Resources/Tecnologia/Python Web Frameworks\|Python Web Frameworks]]
 - [[3 - Resources/Tecnologia/Event Storming\|Event Storming]]
@@ -25,5 +24,6 @@ Aqui estão algumas das minhas notas mais recentes por onde você pode começar:
 - [[3 - Resources/Tecnologia/Engenharia de Dados/Data Engineering\|Data Engineering]]
 - [[3 - Resources/Tecnologia/Por que aplicações CPU-bound podem ter a performance prejudicada no Python\|Por que aplicações CPU-bound podem ter a performance prejudicada no Python]]
 - [[3 - Resources/Tecnologia/Learning about algorithm complexity and efficiency is a powerful tool for programmers\|Learning about algorithm complexity and efficiency is a powerful tool for programmers]]
+- [[3 - Resources/Tecnologia/What is algorithmic thinking\|What is algorithmic thinking]]
 
 { .block-language-dataview}
